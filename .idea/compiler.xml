@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ehome-manager-pojo" />
+        <module name="ehome-order-service" />
+        <module name="ehome-commons" />
+        <module name="ehome-cart-web" />
+        <module name="ehome-cart-interface" />
+        <module name="ehome-order-interface" />
+        <module name="ehome-sso-interface" />
+        <module name="ehome-search-interface" />
+        <module name="ehome-blockchain-web" />
+        <module name="ehome-manager-web" />
+        <module name="ehome-search-web" />
+        <module name="ehome-blockchain" />
+        <module name="ehome-content-service" />
+        <module name="ehome-content-interface" />
+        <module name="ehome-sso-service" />
+        <module name="ehome-order-web" />
+        <module name="ehome-item-web" />
+        <module name="ehome-manager-interface" />
+        <module name="ehome-manager-service" />
+        <module name="ehome-search-service" />
+        <module name="ehome-manager-dao" />
+        <module name="ehome-sso-web" />
+        <module name="ehome-cart-service" />
+        <module name="ehome-portal-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="7" />
+  </component>
+</project>

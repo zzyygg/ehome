@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/alipay" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-blockchain-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-cart/ehome-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-content/ehome-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-manager/ehome-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-order/ehome-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-search/ehome-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ehome-sso/ehome-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ehome-order/pom.xml" />
+        <option value="$PROJECT_DIR$/ehome-blockchain/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/alipay/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
